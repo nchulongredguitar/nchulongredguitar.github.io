@@ -1,0 +1,141 @@
+.teacher-discription {
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-size: 18px;
+    line-height: 26px;
+}
+.teacher-discription a {
+    font-size: 14px;
+}
+.teacher-frame table {
+    width: 100%;
+}
+.teacher-title {
+    width: 100%;
+    height: 200px;
+    font-size: 50px;
+    line-height: 200px;
+    font-weight: bold;
+    text-align: right;
+}
+.teacher-image-pusher {
+    width: 300px;
+    height: 200px;
+}
+.teacher-image-frame {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    transition-duration: 0.5s;
+}
+.teacher-image {
+    transition-duration: 0.5s;
+    transition-delay: 0.05s;
+}
+.teacher-image-frame:hover {
+    transition-duration: 0.5s;
+}
+.teacher-image:hover {
+    transition-duration: 0.5s;
+    transition-delay: 0.05s;
+}
+
+/* Crispy */
+#crispy-image {
+    width: 700px;
+    margin-left: -200px;
+    margin-top: -40px;
+}
+#crispy-image-frame:hover {
+    width: 690px;
+    height: 460px;
+}
+#crispy-image:hover {
+    margin-left: -10px;
+    margin-top: 0;
+}
+
+/* Mr. String */
+#mr-strong-image {
+    width: 450px;
+    margin-top: -15px;
+    margin-left: -40px;
+}
+#mr-strong-image-frame:hover {
+    width: 450px;
+    height: 450px;
+}
+#mr-strong-image:hover {
+    margin: 0;
+}
+
+/* little worm */
+#little-worm-image {
+    width: 340px;
+    margin-top: -85px;
+    margin-left: -40px;
+}
+#little-worm-image-frame:hover {
+    width: 320px;
+    height: 400px;
+}
+#little-worm-image:hover {
+    margin-top: -50px;
+    margin-left: -20px;
+}
+
+/* Mr. Wu */
+#mr-wu-image {
+    width: 350px;
+    margin-top: -20px;
+    margin-left: -40px;
+}
+#mr-wu-image-frame:hover {
+    width: 350px;
+    height: 285px;
+}
+#mr-wu-image:hover {
+    margin: 0;
+}
+
+/* Mr. Lu */
+#mr-lu-image {
+    width: 450px;
+    margin-top: -10px;
+    margin-left: -70px;
+}
+#mr-lu-image-frame:hover {
+    width: 450px;
+    height: 450px;
+}
+#mr-lu-image:hover {
+    margin: 0;
+}
+
+/* vocal teacher */
+#vocal-teacher-image {
+    width: 400px;
+    margin-top: -70px;
+    margin-left: -20px;
+}
+#vocal-teacher-image-frame:hover {
+    width: 400px;
+    height: 430px;
+}
+#vocal-teacher-image:hover {
+    margin: 0;
+}
+
+/* Mr. East */
+#mr-east-image {
+    width: 480px;
+    margin-left: -100px;
+    margin-top: -10px;
+}
+#mr-east-image-frame:hover {
+    width: 480px;
+    height: 360px;
+}
+#mr-east-image:hover {
+    margin: 0;
+}
