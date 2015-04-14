@@ -63,6 +63,7 @@ header .title-box {
 }
 .main-background {
     position: fixed;
-    top: -80px;
+    width: 101%;
+    min-width: 1000px;
     z-index: -99;
 }
