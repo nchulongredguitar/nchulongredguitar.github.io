@@ -28,7 +28,7 @@ header {
 /*    opacity: 0.8;*/
 /*    background: rgba(80, 80, 150, 1);*/
     background-color: rgba(160, 0, 0, 0.6);
-    background-image: -webkit-radial-gradient(bottom left, rgba(255,255,255,0.5), brown);
+    background-image: -webkit-radial-gradient(bottom left, rgba(255,255,255,0.2), brown);
     overflow: hidden;
 }
 header .main-frame {
@@ -44,7 +44,7 @@ header .title-box {
     padding: 50px;
     width: calc(100% - 100px);
     min-height: 800px;
-    background-color: rgba(250, 250, 250, 0.7);
+/*    background-color: rgba(250, 250, 250, 0.7);*/
     overflow: hidden;
 }
 .container .content {
@@ -66,4 +66,8 @@ header .title-box {
     width: 101%;
     min-width: 1000px;
     z-index: -99;
+    opacity: 0.35;
+    -moz-opacity: 0.35;
+    -khtml-opacity: 0.35;
+    filter: alpha(opacity=35);
 }
